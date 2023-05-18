@@ -23,6 +23,7 @@ For 2023, I'll particularly focus in the following themes.
 - Learn Docker
 - Learn Flutter
 - Learn MySQL
+- Learn Graphic Design
 
 <!-- BEGIN -->
 
@@ -68,6 +69,9 @@ For 2023, I'll particularly focus in the following themes.
 ## MySQL
 - [ ] .
 - [ ] .
+
+## Graphic Design
+- [X] ["Curso completo de CorelDraw X7. Tutorial desde nivel básico hasta avanzado. Aprende desde cero, ideal para principiantes"](https://www.youtube.com/playlist?list=PLomN84AdULIBjdRsCRZ8NbsnLiIQYkeme) - 17-may-2023
 
 
 <!-- END -->
