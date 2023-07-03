@@ -39,7 +39,7 @@ For 2023, I'll particularly focus in the following themes.
 
 ## Python
 - [ ] [codewithmosh.com ](https://codewithmosh.com/)
-   - [ ] [Complete Python Mastery ](https://codewithmosh.com/p/python-programming-course-beginners)
+   - [:runner:] [Complete Python Mastery ](https://codewithmosh.com/p/python-programming-course-beginners)
    - [ ]  [The Ultimate Django Series: Part 1 ](https://codewithmosh.com/p/the-ultimate-django-part1)
    - [ ]  [The Ultimate Django Series: Part 2 ](https://codewithmosh.com/p/the-ultimate-django-part2)
    - [ ]  [The Ultimate Django Series: Part 3 ](https://codewithmosh.com/p/the-ultimate-django-part3)
