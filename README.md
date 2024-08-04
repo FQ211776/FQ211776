@@ -1,16 +1,19 @@
-## Hi there 👋
+Este README.md sirve como un índice de todas las tareas, cursos y proyectos que tengo programados para lo que resta del 2024, iniciando el 3 de agosto de 2024. El 1 de enero de 2025, este listado será revisado y actualizado, y este proceso se repetirá cada seis meses para incorporar nuevos objetivos, evaluar los avances, reflexionar sobre lo que funcionó y lo que no, así como analizar qué metas se lograron y cuáles no, y por qué.
 
-<!--
-**FQ211776/FQ211776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cada tarea se describe en detalle en un ítem individual, lo que permite un seguimiento preciso y un registro transparente del progreso a lo largo del tiempo.
 
-Here are some ideas to get you started:
+**Vista general del estado de los proyectos:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Mark          | Description      |
+| ------------- | ---------------- |
+| bullet        | No iniciado |
+| check mark    | Completado   |
+| :runner:      | En proceso    |
+| :muscle:      | Casi terminado    |
+| :red_circle:  | Bloqueado    |
+
+
+- [ ] - :runner: [Frontend Master: Developer Productivity - by ThePrimeagen](https://frontendmasters.com/courses/developer-productivity/)  - Iniciado: 2024-08-03, Completado: (pendiente)
+
+
+
