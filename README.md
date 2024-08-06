@@ -13,7 +13,10 @@ Cada tarea se describe en detalle en un ítem individual, lo que permite un segu
 | :red_circle:  | Bloqueado    |
 
 
-- [ ] - :runner: [Frontend Master: Developer Productivity - by ThePrimeagen](https://frontendmasters.com/courses/developer-productivity/)  - Iniciado: 2024-08-03, Completado: (pendiente)
+- [x] - [Frontend Master: Developer Productivity - by ThePrimeagen](https://frontendmasters.com/courses/developer-productivity/)  - Iniciado: 2024-08-03, Completado: 2024-08-05
+- [ ] :runner: - [Frontend Master: Python Fundamentals - by Nina Zakharenko](https://frontendmasters.com/courses/python/i)  - Iniciado: 2024-08-06, Completado: ?
+- [ ] - [Frontend Master: Practical Guide to Python - by Nina Zakharenko](https://frontendmasters.com/courses/practical-python/)
+- [ ] - [Frontend Master: Intermediate Python - by Nina Zakharenko](https://frontendmasters.com/courses/intermediate-python/)
 
 
 
