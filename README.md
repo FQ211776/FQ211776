@@ -17,7 +17,7 @@ Cada tarea se describe en detalle en un ítem individual, lo que permite un segu
 - [ ] :runner: - [Frontend Master: Python Fundamentals - by Nina Zakharenko](https://frontendmasters.com/courses/python/i)  - Iniciado: 2024-08-06, Completado: ?
 - [ ] - [Frontend Master: Practical Guide to Python - by Nina Zakharenko](https://frontendmasters.com/courses/practical-python/)
 - [ ] - [Frontend Master: Intermediate Python - by Nina Zakharenko](https://frontendmasters.com/courses/intermediate-python/)
-- [ ] :runner: - [Frontend Master:  VIM Fundamentals- by ThePrimeagen]( https://frontendmasters.com/courses/vim-fundamentals/)  - Iniciado: 2024-08-06, Completado: ?
+- [x] - [Frontend Master:  VIM Fundamentals- by ThePrimeagen]( https://frontendmasters.com/courses/vim-fundamentals/)  - Iniciado: 2024-08-06, Completado: 2024-08-07
 - [ ] :runner: - [Frontend Master:  Everything You'll Need to Know About Git - by ThePrimeagen](https://frontendmasters.com/courses/everything-git/)  - Iniciado: 2024-08-06, Completado: ?
 
 
